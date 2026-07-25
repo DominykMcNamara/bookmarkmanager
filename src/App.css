@@ -1,0 +1,40 @@
+:root {
+  /* Neutral theme colors */
+  --neutral-0-light: #ffffff;
+
+  /* Neutral light theme colors */
+  --neutral-900-light: #051513;
+  --neutral-800-light: #4c5c59;
+  --neutral-500-light: #899492;
+  --neutral-400-light: #cfcfcc;
+  --neutral-300-light: #dde9e7;
+  --neutral-100-light: #f5f7f6;
+
+  /* Neutral dark theme colors */
+  --neutral-900-dark: #001414;
+  --neutral-800-dark: #001f1f;
+  --neutral-600-dark: #002e2d;
+  --neutral-500-dark: #004241;
+  --neutral-300-dark: #007063;
+  --neutral-100-dark: #b1b9b9;
+
+  /* Teal theme colors */
+  --teal-800: #013c3b;
+  --teal-700: #014745;
+
+  /* Red theme colors */
+  --red-800: #cb0a04;
+  --red-600: #fd4740;
+
+  /* Text */
+  --font-family: Manrope, serif;
+  --text-preset-1: normal bold 1.5rem/2.1rem var(--font-family); 
+  --text-preset-2: normal bold 1.25rem/1.5rem var(--font-family); 
+  --text-preset-2-semibold: normal 600 1.25rem/1.5rem var(--font-family); 
+  --text-preset-3: normal 600 1rem/1.4rem var(--font-family); 
+  --text-preset-3-medium: normal 500 1rem/1.3rem var(--font-family); 
+  --text-preset-4: normal 600 0.875rem/1.225rem var(--font-family);
+  --text-preset-4-medium: normal 500 0.875rem/1.225rem var(--font-family);
+  --text-preset-5: normal 500 0.75rem/1.05rem var(--font-family);
+
+}
